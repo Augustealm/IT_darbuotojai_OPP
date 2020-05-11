@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "name": "My APP",
+    "description": "description",
+    "psr-4": {
+      "MYAPP\\": "app"
+    }
+  }
+}
